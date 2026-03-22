@@ -45,9 +45,3 @@ make stuff and do have fun along the way.
 <a href="http://www.github.com/AdrishikharChowdhury"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AdrishikharChowdhury&stroke=ffffff&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/AdrishikharChowdhury" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrishikharChowdhury&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/AdrishikharChowdhury"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/adrishikharchowdhury"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
-</ul>
