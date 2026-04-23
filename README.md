@@ -8,13 +8,11 @@ Hi, My name is Adrishikhar Chowdhury.
 
 I'm a Btech. student who is currently working on the "how to live" project at
 
-their fullest. When people ask what is my mother tongue, I say Bengali & C.
+their fullest.
 
-I know more coding languages than speaking languages, which I think is not good.
+I can be both solo or a team person depending on the company. 
 
-I can be both solo or a team person depending on the company. I want to
-
-make stuff and do have fun along the way.
+I want to make stuff and do have fun along the way.
 
 *   🌍  I'm based in India
 *   🖥️  See my portfolio at [@AdrishikharC](http://adrishikharchowdhury.netlify.app/)
