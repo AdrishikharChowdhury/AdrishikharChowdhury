@@ -6,9 +6,7 @@ Haste Makes Waste ☯️
 
 Hi, My name is Adrishikhar Chowdhury.
 
-I'm a Btech. student who is currently working on the "how to live" project at
-
-their fullest.
+I'm a Btech. student who is currently working on the "how to live" project at their fullest.
 
 I can be both solo or a team person depending on the company. 
 
