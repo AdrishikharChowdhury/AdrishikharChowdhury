@@ -12,8 +12,8 @@
 
 ### About Me
 
-- 🎓 **B.Tech Student** based in **India**
-- 🧠 Currently deep-diving into the **MERN Stack** (MongoDB, Express, React, Node.js)
+- 🎓 **B.Tech Student** from **India**
+- 🧠 Currently deep-diving into the **FullStack Development** (MongoDB, Express, React, Node.js)
 - ⚙️ Love building cool digital products, custom automation, and having fun along the way
 - 👥 Adaptable collaborator who fits perfectly into development squads or excels on solo assignments
 - 💬 Ask me about: **一期一会** *(Once-in-a-lifetime encounters)*
