@@ -17,7 +17,7 @@
 - ⚙️ Love building cool digital products, custom automation, and having fun along the way
 - 👥 Adaptable collaborator who fits perfectly into development squads or excels on solo assignments
 - 💬 Ask me about: **一期一会** *(Once-in-a-lifetime encounters)*
-- 🖥️ Explore my chest room / portfolio at: [@AdrishikharC](http://adrishikharchowdhury.netlify.app/)
+- 🖥️ Explore my inventory / portfolio at: [@AdrishikharC](http://adrishikharchowdhury.netlify.app/)
 - 📫 Reach me at: **amiadrishikhar@gmail.com**
 
 ### 🛠️ Skills & Tools
